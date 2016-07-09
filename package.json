@@ -1,6 +1,6 @@
 {
   "name": "find-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find files or directories by name, a wrapper to `find` package",
   "main": "lib/index.js",
   "scripts": {
