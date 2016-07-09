@@ -1,0 +1,32 @@
+{
+  "name": "find-promise",
+  "version": "1.0.0",
+  "description": "Find files or directories by name, a wrapper to `find` package",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoRFS/find-promise.git"
+  },
+  "keywords": [
+    "find",
+    "promise",
+    "async"
+  ],
+  "author": "EduardoRFS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EduardoRFS/find-promise/issues"
+  },
+  "homepage": "https://github.com/EduardoRFS/find-promise#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "tmp": "0.0.28"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "find": "^0.2.6"
+  }
+}
